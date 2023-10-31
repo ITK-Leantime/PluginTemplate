@@ -9,7 +9,7 @@
         }
     ],
     "homepage": "https://leantime.io",
-    "type": "plugin",
+    "type": "leantime-plugin",
     "keywords": [
     ],
     "license": "MIT",
