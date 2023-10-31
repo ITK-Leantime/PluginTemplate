@@ -8,3 +8,4 @@ Leantime.
 
 - Update PluginTemplate folder name and service name to match you plugin name.
 - Update composer json to match new plugin. (Name, description etc.)
+- Add module to leantime plugin folder. (/app/plugins)
