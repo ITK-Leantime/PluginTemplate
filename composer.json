@@ -1,5 +1,5 @@
 {
-    "name": "itk-leantime/plugin-template",
+    "name": "itk-leantime/plugintemplate",
     "description": "Plugin template to build new plugins from.",
     "version": "1",
     "authors": [
