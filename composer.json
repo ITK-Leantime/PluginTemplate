@@ -1,0 +1,19 @@
+{
+    "name": "itk-leantime/plugin-template",
+    "description": "Plugin template to build new plugins from.",
+    "version": "1",
+    "authors": [
+        {
+            "name": "Martin Yde Granath",
+            "email": "my@aarhus.dk"
+        }
+    ],
+    "homepage": "https://leantime.io",
+    "type": "leantime-plugin",
+    "keywords": [
+    ],
+    "license": "MIT",
+    "require": {
+        "leantime/leantime": "^2.3"
+    }
+}
